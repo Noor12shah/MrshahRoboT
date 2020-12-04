@@ -1,10 +1,10 @@
 {
-  "name": "MissJuliaRobot",
+  "name": "MrshahRoboT",
   "description": "A Telegram Group Management Bot",
-  "logo": "https://telegra.ph/file/517f97b74ad036b2ef3c9.jpg",
+  "logo": "https://logos.textgiraffe.com/logos/logo-name/Shah-designstyle-boots-m.png",
   "keywords": ["telethon", "sqlalchemy", "mongodb"],
-  "repository": "https://github.com/MissJuliaRobot/MissJuliaRobot.git",
-  "success_url": "http://missjuliarobot.unaux.com",
+  "repository": "https://github.com/Noor12shah/MrshahRoboT.git",
+  "success_url": "https://github.com/Noor12shah/MrshahRoboT",
   "env": {
     "API_KEY": {
       "description": "Get this value from my.telegram.org! Please do not steal",
